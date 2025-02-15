@@ -46,7 +46,7 @@ sudo curl -L https://raw.githubusercontent.com/FelixKratz/dotfiles/master/instal
 6. Run the following command to clone this repository and have it overwrite the SketchyBar configuration:
 
 ```
-git clone https://github.com/TheGoldenPatrik1/sketchybar-config $HOME/.config/sketchybar
+git clone https://github.com/d53dave/sketchybar-config $HOME/.config/sketchybar
 ```
 
 7. Restart SketchyBar:
